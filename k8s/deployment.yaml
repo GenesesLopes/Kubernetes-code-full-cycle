@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: "goserver"
-          image: "geneseslopes/hello-go:latest"
+          image: "geneseslopes/hello-go:v2"
